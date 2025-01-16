@@ -41,7 +41,7 @@ Este proyecto consiste en una aplicación web para validar la circulación vehic
    ```
 2. Ejecutar el archivo JAR disponible:
    ```bash
-   js
+   java -jar Backend_picoyplaca-0.0.1-SNAPSHOT.jar
    ```
    - Opcional: Configurar un servicio en el sistema para que el backend se ejecute automáticamente al iniciar el servidor.
 
