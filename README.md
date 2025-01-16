@@ -5,7 +5,8 @@
 Este proyecto consiste en una aplicación web para validar la circulación vehicular según las restricciones de pico y placa. Se utiliza **Java 21** para el backend y **Angular 19** para el frontend, proporcionando una interfaz moderna y un backend robusto.
 
 ## Repositorios
-
+![Validación correcta](correcto.png)
+![Validación incorrecta](incorrecto.png)
 ### Backend
 
 - Código fuente: [https://github.com/cpiguave/picoyplaca\_backend.git](https://github.com/cpiguave/picoyplaca_backend.git)
