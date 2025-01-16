@@ -77,11 +77,5 @@ Este proyecto consiste en una aplicación web para validar la circulación vehic
 1. Ingresar al dominio configurado para la aplicación.
 2. Ingresar el número de placa para verificar las restricciones de circulación.
 
-## Contacto
 
-Para cualquier consulta o soporte, puede contactarnos a través de [correo@ejemplo.com](mailto\:correo@ejemplo.com).
-
----
-
-© 2025. Todos los derechos reservados.
 
